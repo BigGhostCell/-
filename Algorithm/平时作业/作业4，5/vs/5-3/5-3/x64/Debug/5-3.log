@@ -1,0 +1,3 @@
+﻿  5-3.cpp
+C:\Users\11732\Desktop\作业4\5-3\5-3\5-3.cpp(84,33): warning C4930: “std::vector<std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>,std::allocator<std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>>> dp(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  5-3.vcxproj -> C:\Users\11732\Desktop\作业4\5-3\x64\Debug\5-3.exe

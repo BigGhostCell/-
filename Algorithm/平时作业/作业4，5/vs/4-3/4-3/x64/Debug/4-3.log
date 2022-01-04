@@ -1,0 +1,40 @@
+﻿  4-3.cpp
+C:\Users\11732\Desktop\算法设计\4-3\4-3\4-3.cpp(69,36): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\11732\Desktop\算法设计\4-3\4-3\4-3.cpp(71,38): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\11732\Desktop\算法设计\4-3\4-3\4-3.cpp(75,32): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\11732\Desktop\算法设计\4-3\4-3\4-3.cpp(77,32): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\11732\Desktop\算法设计\4-3\4-3\4-3.cpp(101,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11732\Desktop\算法设计\4-3\4-3\4-3.cpp(108,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  4-3.vcxproj -> C:\Users\11732\Desktop\算法设计\4-3\x64\Debug\4-3.exe

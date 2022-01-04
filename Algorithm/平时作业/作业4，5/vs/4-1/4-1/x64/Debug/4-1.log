@@ -1,0 +1,4 @@
+﻿  4-1.cpp
+C:\Users\11732\Desktop\算法设计\4-1\4-1\4-1.cpp(55,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11732\Desktop\算法设计\4-1\4-1\4-1.cpp(72,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  4-1.vcxproj -> C:\Users\11732\Desktop\算法设计\4-1\x64\Debug\4-1.exe
